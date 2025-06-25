@@ -8,7 +8,6 @@ The aim is to demonstrate how automation can help manage traffic more efficientl
 Simulates traffic signals at a four-way intersection
 
 Manages signal timing based on predefined logic
-
 Displays real-time signal changes
 
 Helps understand basic traffic flow control mechanisms
