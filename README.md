@@ -27,7 +27,6 @@ Open the source code in any C++ IDE (CodeBlocks, Dev-C++, VS Code, etc.).
 Compile and run main.cpp (or the main file in the project).
 
 
-
 Follow on-screen instructions to simulate traffic flow.
 
 
