@@ -18,7 +18,6 @@ C++ (console-based program)
 Object-Oriented Programming concepts and Data Structures
 
 Basic logic implementation for signal control
-
 ▶️ How to Run
 Extract the ZIP file.
 
